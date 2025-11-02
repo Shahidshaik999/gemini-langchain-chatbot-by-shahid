@@ -251,11 +251,6 @@ chore: add README with setup, tested package versions, and troubleshooting
 
 Created by: **Shaik Shahid** — B.Tech CSE (AI & ML)
 
-If you want, I can also:
-
-* Create a simple web UI (Flask or FastAPI) and show how to deploy it to Google Cloud Run using your $300 credit, or
-* Add memory persistence (save last N messages to JSON) and show how to load it on startup.
-
 ---
 
 *License: MIT — adapt as needed.*
